@@ -12,5 +12,25 @@ width:95%;
 height: auto; 
 margin: auto;
 padding: 15px; 
-box-shadow: 2px 4px rgba(255,136,0,0.5); 
+box-shadow: 2px 4px rgba(255,136,0,0.5);
+background-color: #ffffff;
+font-family: Verdana, Geneva, Tahoma, sans-serif 
+}
+.cabecalho{
+    height: 20%;
+    width: 95%;
+    padding: 20px;
+    margin: 5px;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    border-bottom: #dcdcdcdc solid;
+}
+.titulo
+text-transform: uppercase;
+text-align: center;
+font-size: 24px;
+text-shadow: 2px 4px rgba(255,136,0,0.5);
+color: #ff9900;
+
 }
